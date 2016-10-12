@@ -17,7 +17,7 @@ PENGENALAN
 
 3. Pemaparan Sekilas Mengenai GIS
 
-
+https://www.youtube.com/watch?v=sXvFM1UjHvg
 
 
 4. Penjelasan dan Solusi Masalah dari Sumber yang Lain
